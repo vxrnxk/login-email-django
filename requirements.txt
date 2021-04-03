@@ -1,5 +1,0 @@
-#producao
-django
-
-#dev
-autopep8
